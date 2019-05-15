@@ -1,0 +1,32 @@
+---
+title: "Bullet Scan Examples"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+## Breakoff
+```{r, include = T}
+knitr::include_graphics(list.files(file.path("..", "docs", "figure", "problem_scans", "breakoff_issues"),full.names = T))
+```
+
+## Groove Engraved Areas
+```{r, include = T}
+knitr::include_graphics(list.files(file.path("..", "docs", "figure", "problem_scans", "gea_scans"),full.names = T))
+```
+
+## Misaligned
+
+```{r, include = T}
+knitr::include_graphics(list.files(file.path("..", "docs", "figure", "problem_scans", "misaligned_on_scope"),full.names = T))
+```
+
+## Tank rash or pitting
+
+This probably can't be completely helped, as it's an artifact of the bullet itself, but here's what it looks like anyways:
+
+```{r, include = T}
+knitr::include_graphics(list.files(file.path("..", "docs", "figure", "problem_scans", "tankrash_or_pitting"),full.names = T))
+```
