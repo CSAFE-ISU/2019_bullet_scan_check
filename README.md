@@ -25,4 +25,4 @@ We understand you're still finishing up the semester, so all of this reading is 
 
 #### Other Links
 
-- [Project documentation](csafe-isu.github.io/2019_bullet_scan_check)
+- [Project documentation](https://csafe-isu.github.io/2019_bullet_scan_check)
