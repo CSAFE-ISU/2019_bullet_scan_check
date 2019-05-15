@@ -22,3 +22,7 @@ We understand you're still finishing up the semester, so all of this reading is 
 - The data we have is in x3p files, which have a [specific format](https://www.openfmc.org/). We're going to ask you to develop ways to quickly check whether these files contain "good" data. There are C/C++ libraries for working with this file format, so you won't have to do anything from scratch. If you're familiar with C/C++, you might find the [github repository](https://github.com/OpenFMC/x3p) interesting; if not, don't worry, we'll get to it when you get to Ames!
 
 #### See you in a few weeks!
+
+#### Other Links
+
+- [Project documentation](csafe-isu.github.io/2019_bullet_scan_check)
