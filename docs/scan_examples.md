@@ -27,3 +27,7 @@ bullet itself, but here’s what it looks like
 anyways:
 
 ![](figure/problem_scans/tankrash_or_pitting/Allison_Variability-Round_1-Barrel_Pink-Bullet_1-Land_6.png)<!-- -->![](figure/problem_scans/tankrash_or_pitting/Carley_Variability-Round_1-Barrel_Green-Bullet_1-Land_3.png)<!-- -->![](figure/problem_scans/tankrash_or_pitting/Connor_Variability-Round_1-Barrel_Orange-Bullet_3-Land_5.png)<!-- -->
+
+## Good scans
+
+![](figure/good_scans/good/HS44-Barrel_6-Bullet_1-Land_3.png)<!-- -->![](figure/good_scans/good/HS44-Barrel_6-Bullet_1-Land_4.png)<!-- -->![](figure/good_scans/good/HS44-Barrel_6-Bullet_1-Land_5.png)<!-- -->![](figure/good_scans/good/HS44-Barrel_6-Bullet_1-Land_6.png)<!-- -->![](figure/good_scans/good/LAPD-508-Bullet_B-Land_6.png)<!-- -->![](figure/good_scans/good/LAPD-FAU_623-Bullet_A-Land_5.png)<!-- -->![](figure/good_scans/good/LAPD-FAU_623-Bullet_A-Land_6.png)<!-- -->

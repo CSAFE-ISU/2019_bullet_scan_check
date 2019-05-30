@@ -39,3 +39,12 @@ list.files(file.path("figure", "problem_scans", "tankrash_or_pitting"), full.nam
 knitr::include_graphics()
 ```
 
+
+
+## Good scans 
+
+```{r, include = T}
+list.files(file.path("figure", "good_scans", "good"), full.names = T, recursive = T) %>%
+  knitr::include_graphics()
+
+```

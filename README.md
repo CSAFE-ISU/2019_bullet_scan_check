@@ -8,7 +8,8 @@ This summer, you'll be helping us to build a user interface to perform automatic
 
 #### GitHub
 
-This summer, you'll be using GitHub to keep track of code and other work you perform. Please [create a github account](https://github.com/join) if you don't already have one, and send your username to Susan so you can be added to the CSAFE group. [Here](https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies) is a guide on git and GitHub that may answer a few of your questions - you're free to take a look if you want, otherwise, we'll talk about it when you get here.
+This summer, you'll be using GitHub to keep track of code and other work you perform. Please [create a github account](https://github.com/join) if you don't already have one, and send your username to Susan so you can be added to the CSAFE group. [Here](https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies) is a guide on git and GitHub that may answer a few of your questions.
+
 
 #### Background Reading
 
@@ -19,10 +20,20 @@ We understand you're still finishing up the semester, so all of this reading is 
     - Chapter 4: Firearms Manufacture (specifically, [rifled barrels](https://projects.nfstc.org/firearms/module04/fir_m04_t06.htm)) - you don't need to know this whole thing, but the rifled barrel manufacturing process will be useful.
     - Chapter 11: [Bullet Comparison](https://projects.nfstc.org/firearms/module11/fir_m11.htm) - this is the part that most relates to what you're going to work with over the summer
     
-- The data we have is in x3p files, which have a [specific format](https://www.openfmc.org/). We're going to ask you to develop ways to quickly check whether these files contain "good" data. There are C/C++ libraries for working with this file format, so you won't have to do anything from scratch. If you're familiar with C/C++, you might find the [github repository](https://github.com/OpenFMC/x3p) interesting; if not, don't worry, we'll get to it when you get to Ames!
+- The data we have is in x3p files, which have a [specific format](https://www.openfmc.org/). We're going to ask you to develop ways to quickly check whether these files contain "good" data. There are C/C++ libraries for working with this file format, so you won't have to do anything from scratch. If you're familiar with C/C++, you might find the [github repository](https://github.com/OpenFMC/x3p) interesting.
 
-#### See you in a few weeks!
 
-#### Other Links
+#### Other Software:
+
+
+
+#### Other Information
 
 - [Project documentation](https://csafe-isu.github.io/2019_bullet_scan_check)
+
+- We have developed a google chrome extension to read and annotate x3p files called fix3p. It's in the Chrome Web Store - please go ahead and install it. 
+    - The github repository can be found here: https://github.com/talenfisher/fix3p
+    - The x3p.js javascript library is here: https://github.com/talenfisher/x3p.js
+
+- This repository can be found at https://github.com/CSAFE-ISU/2019_bullet_scan_check
+
