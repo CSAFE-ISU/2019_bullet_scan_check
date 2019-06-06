@@ -37,7 +37,7 @@ library(devtools) # load the devtools package
 install_github("heike/x3ptools") # install the x3ptools package from github
 ```
 
-- [R cheat sheet](https://cloud.r-project.org/doc/contrib/refcard.pdf)
+- [R cheat sheet](https://cloud.r-project.org/doc/contrib/refcard.pdf) - most of the useful functions in base R are on here - they'll get you started.
 
 - [Stat 579 (Intro to R) Schedule and Slides from 2018](https://stat579-at-isu.github.io/schedule.html) (slides are linked, code from class is also provided). 
 
