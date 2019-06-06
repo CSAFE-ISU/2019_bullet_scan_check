@@ -25,7 +25,21 @@ We understand you're still finishing up the semester, so all of this reading is 
 
 #### Other Software:
 
+- [R](https://cloud.r-project.org/) 
 
+- [RStudio](https://www.rstudio.com/products/rstudio/download/) - RStudio is an Integrated Development Environment (like VS Code) for R. It's amazing, and if you're going to use R, you should use RStudio as well. 
+
+- [x3ptools R package](https://github.com/heike/x3ptools) - install in R:
+
+```r
+install.packages("devtools")
+library(devtools) # load the devtools package
+install_github("heike/x3ptools") # install the x3ptools package from github
+```
+
+- [R cheat sheet](https://cloud.r-project.org/doc/contrib/refcard.pdf)
+
+- [Stat 579 (Intro to R) Schedule and Slides from 2018](https://stat579-at-isu.github.io/schedule.html) (slides are linked, code from class is also provided). 
 
 #### Other Information
 
